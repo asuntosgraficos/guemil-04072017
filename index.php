@@ -25,36 +25,68 @@
     ?>
     <!--ya llamé a los dato-->
     <!--acá estoy parchando de manera cuma-->
-    <?php $nombre_de_hoja = array("01_Man","02_Woman","05_Assembly_group","06_Assembly_family","07_Girl","08_Boy","09_Authority_instruction","25_Food");?>
+    <?php $nombre_de_hoja = array(
+      "01_Man",
+      "02_Woman",
+      "05_Assembly_group",
+      "06_Assembly_family",
+      "07_Girl",
+      "08_Boy",
+      "09_Authority_instruction",
+      "25_Food",
+      "29_School",
+      "46_Earthquake",
+      "48_Alluvium",
+      "49_Avalanche",
+      "51_Flood",
+      "53_Info_point",
+      "56_Messaging_twoways",
+      "58_North_sign",
+      "61_Wifi",
+      "62_@_internet",
+      "69_Warning_strip_2",
+      "73_Arrow_backward"
+    );?>
     <!--dejo el arreglo para otro día-->
 </head>
 <body>
 <div class="container">
 <div class="row">
-<div class="col-sm-12">
-<h1>Probando-probando</h1>
-<h2>Estoy leyendo a <a href="data.json">data.json</a></h2>
+<div class="col-sm-10 col-sm-offset-1">
+<h1>Esta es una prueba<br />
+<small>Estoy leyendo el <a href="data.json">data.json</a> con PHP</small></h1>
 </div>
 
 <?php for ($a = 0; $a < $all = count($datos); $a++) {?>
-<div class="col-sm-12">
-<h2>Qué nos han respondido para <?php echo($nombre_de_hoja[$a]);?></h2>
-<h4>Tenemos <?echo (count($datos[$a]))?> respuestas:</h4>
-<ol>
-<?php for ($b = 0; $b < $respuesta = count($datos[$a]); $b++) {?>
-<li><?php echo($datos[$a][$b]['respuesta']);?> <code><?php echo($datos[$a][$b]['puntaje']);?></code></li>
-<?php };?>
-</ol>
-</div>
+<div class="col-sm-10 col-sm-offset-1">
+    <h2><?php echo($nombre_de_hoja[$a]);?></h2>
+    <h3>Efectividad del no. %</h3>
+    <h4>Tenemos <?echo (count($datos[$a]))?> respuestas.</h4>
+    <h4>Desglose:</h4>
+    <p>no. <strong>Correcta <code>[1]</code></strong></p>
+    <p>no. <strong>Casi Correcta <code>[2]</code></strong></p>
+    <p>no. <strong>Dudosa <code>[3]</code></strong></p>
+    <p>no. <strong>Incorrecta <code>[4]</code></strong></p>
+    <p>no. <strong>Significado Opuesto <code>[5]</code></strong></p>
+    <p>no. <strong>Sin Respuesta <code>[6]</code></strong></p>
+    <h4>Las respuestas fueron:</h4>
+    <ol>
+      <?php for ($b = 0; $b < $respuesta = count($datos[$a]); $b++) {?>
+        <li><?php echo($datos[$a][$b]['respuesta']);?> <code>[<?php echo($datos[$a][$b]['puntaje']);?>]</code></li>
+      <?php };?>
+    </ol>
+    <hr />
+  </div>
 <?php };?>
 
 <div class="clearfix"></div>
-<div class="col-sm-12">
+<div class="col-sm-10 col-sm-offset-1">
+<pre>
 <code>
-<?php echo '<pre>', print_r($datos), '</pre>';;?>
+<?php print_r($datos);?>
 </code>
+</pre>
 </div>
-
 </div><!--/row-->
 </div><!--/container-->
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
