@@ -1,0 +1,4235 @@
+{
+    "01_Man": [
+        {
+            "id": 1,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 2,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 3,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 4,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 5,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 6,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 7,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 8,
+            "respuesta": "Espere/vigía",
+            "puntaje": 2
+        },
+        {
+            "id": 9,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 10,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 11,
+            "puntaje": 6
+        },
+        {
+            "id": 12,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 13,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 14,
+            "respuesta": "humano",
+            "puntaje": 1
+        },
+        {
+            "id": 15,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 16,
+            "respuesta": "Persona/hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 17,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 18,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 19,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 20,
+            "respuesta": "Individuo",
+            "puntaje": 1
+        },
+        {
+            "id": 21,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 22,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 23,
+            "respuesta": "Detente",
+            "puntaje": 3
+        },
+        {
+            "id": 24,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 25,
+            "puntaje": 6
+        },
+        {
+            "id": 26,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 27,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 28,
+            "respuesta": "person",
+            "puntaje": 1
+        },
+        {
+            "id": 29,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 30,
+            "respuesta": "Deténgase",
+            "puntaje": 2
+        },
+        {
+            "id": 31,
+            "respuesta": "…",
+            "puntaje": 6
+        },
+        {
+            "id": 32,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 33,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 34,
+            "respuesta": "Una persona",
+            "puntaje": 1
+        },
+        {
+            "id": 35,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 36,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 37,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 38,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 39,
+            "respuesta": "men",
+            "puntaje": 1
+        },
+        {
+            "id": 40,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 41,
+            "respuesta": "una persona, un hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 42,
+            "respuesta": "persona en espera",
+            "puntaje": 1
+        },
+        {
+            "id": 43,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 44,
+            "respuesta": "person",
+            "puntaje": 1
+        },
+        {
+            "id": 45,
+            "puntaje": 6
+        },
+        {
+            "id": 46,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 47,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 48,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 49,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 50,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 51,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 52,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 53,
+            "respuesta": "person",
+            "puntaje": 1
+        },
+        {
+            "id": 54,
+            "respuesta": "HOMBRE",
+            "puntaje": 1
+        },
+        {
+            "id": 55,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 56,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 57,
+            "respuesta": "Persona, hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 58,
+            "respuesta": "person",
+            "puntaje": 1
+        },
+        {
+            "id": 59,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 60,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 61,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 62,
+            "respuesta": "Presencia de Personas",
+            "puntaje": 2
+        },
+        {
+            "id": 63,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 64,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 65,
+            "respuesta": "Single People",
+            "puntaje": 1
+        },
+        {
+            "id": 66,
+            "respuesta": "Zona segura",
+            "puntaje": 3
+        },
+        {
+            "id": 67,
+            "respuesta": "Hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 68,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 69,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 70,
+            "respuesta": "Persona - Yo",
+            "puntaje": 1
+        },
+        {
+            "id": 71,
+            "puntaje": 6
+        },
+        {
+            "id": 72,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 73,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 74,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 75,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 76,
+            "respuesta": "Baño de hombres",
+            "puntaje": 1
+        },
+        {
+            "id": 77,
+            "respuesta": "Person",
+            "puntaje": 1
+        },
+        {
+            "id": 78,
+            "respuesta": "PERSONA",
+            "puntaje": 1
+        },
+        {
+            "id": 79,
+            "puntaje": 6
+        },
+        {
+            "id": 80,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 81,
+            "respuesta": "humano",
+            "puntaje": 1
+        },
+        {
+            "id": 82,
+            "respuesta": "Persona",
+            "puntaje": 1
+        },
+        {
+            "id": 83,
+            "respuesta": "No avanzar",
+            "puntaje": 3
+        },
+        {
+            "id": 84,
+            "respuesta": "baño",
+            "puntaje": 2
+        },
+        {
+            "id": 85,
+            "respuesta": "Peaton",
+            "puntaje": 1
+        },
+        {
+            "id": 86,
+            "respuesta": "persona",
+            "puntaje": 1
+        },
+        {
+            "id": 87,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 88,
+            "respuesta": "quieto",
+            "puntaje": 3
+        },
+        {
+            "id": 89,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 90,
+            "respuesta": "baño de hombres",
+            "puntaje": 1
+        },
+        {
+            "id": 91,
+            "respuesta": "hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 92,
+            "puntaje": 6
+        },
+        {
+            "id": 93,
+            "puntaje": 6
+        },
+        {
+            "id": 94,
+            "puntaje": 6
+        },
+        {
+            "id": 95,
+            "respuesta": "Persona Masculina",
+            "puntaje": 1
+        },
+        {
+            "id": 96,
+            "respuesta": "individuo",
+            "puntaje": 1
+        },
+        {
+            "id": 97,
+            "respuesta": "manten la posicion",
+            "puntaje": 3
+        },
+        {
+            "id": 98,
+            "respuesta": "un hombre",
+            "puntaje": 1
+        },
+        {
+            "id": 99,
+            "respuesta": "ACCÍON",
+            "puntaje": 3
+        },
+        {
+            "id": 100,
+            "respuesta": "individuo",
+            "puntaje": 1
+        },
+        {
+            "id": 101,
+            "respuesta": "Permanecer en el sitio",
+            "puntaje": 3
+        },
+        {
+            "id": 102,
+            "respuesta": "persona",
+            "puntaje": 1
+        }
+    ],
+    "02_Woman": [
+        {
+            "id": 1,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 2,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 3,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 4,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 5,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 6,
+            "puntaje": 6
+        },
+        {
+            "id": 7,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 8,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 9,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 10,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 11,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 12,
+            "respuesta": "Mujeres",
+            "puntaje": 1
+        },
+        {
+            "id": 13,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 14,
+            "puntaje": 6
+        },
+        {
+            "id": 15,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 16,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 17,
+            "respuesta": "woman",
+            "puntaje": 1
+        },
+        {
+            "id": 18,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 19,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 20,
+            "puntaje": 6
+        },
+        {
+            "id": 21,
+            "respuesta": "Mujer / indicación",
+            "puntaje": 1
+        },
+        {
+            "id": 22,
+            "respuesta": "Gente con falda o escoses",
+            "puntaje": 3
+        },
+        {
+            "id": 23,
+            "respuesta": "female",
+            "puntaje": 1
+        },
+        {
+            "id": 24,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 25,
+            "respuesta": "una mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 26,
+            "respuesta": "persona, mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 27,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 28,
+            "puntaje": 6
+        },
+        {
+            "id": 29,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 30,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 31,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 32,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 33,
+            "respuesta": "MUJER",
+            "puntaje": 1
+        },
+        {
+            "id": 34,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 35,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 36,
+            "respuesta": "person",
+            "puntaje": 2
+        },
+        {
+            "id": 37,
+            "respuesta": "MUJER",
+            "puntaje": 1
+        },
+        {
+            "id": 38,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 39,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 40,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 41,
+            "respuesta": "female",
+            "puntaje": 1
+        },
+        {
+            "id": 42,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 43,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 44,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 45,
+            "respuesta": "Damas",
+            "puntaje": 1
+        },
+        {
+            "id": 46,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 47,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 48,
+            "respuesta": "Woman",
+            "puntaje": 1
+        },
+        {
+            "id": 49,
+            "respuesta": "Woman",
+            "puntaje": 1
+        },
+        {
+            "id": 50,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 51,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 52,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 53,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 54,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 55,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 56,
+            "puntaje": 6
+        },
+        {
+            "id": 57,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 58,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 59,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 60,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 61,
+            "respuesta": "baño de mujeres",
+            "puntaje": 2
+        },
+        {
+            "id": 62,
+            "respuesta": "woman",
+            "puntaje": 1
+        },
+        {
+            "id": 63,
+            "respuesta": "MUJER",
+            "puntaje": 1
+        },
+        {
+            "id": 64,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 65,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 66,
+            "respuesta": "Baño mujeres",
+            "puntaje": 2
+        },
+        {
+            "id": 67,
+            "respuesta": "Mujer esperando",
+            "puntaje": 1
+        },
+        {
+            "id": 68,
+            "respuesta": "baño femenino",
+            "puntaje": 2
+        },
+        {
+            "id": 69,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 70,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 71,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 72,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 73,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 74,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 75,
+            "respuesta": "FEMENINO",
+            "puntaje": 1
+        },
+        {
+            "id": 76,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 77,
+            "respuesta": "MUJER",
+            "puntaje": 1
+        },
+        {
+            "id": 78,
+            "respuesta": "Persona Femeninna",
+            "puntaje": 1
+        },
+        {
+            "id": 79,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 80,
+            "respuesta": "mantener posicion",
+            "puntaje": 3
+        },
+        {
+            "id": 81,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 82,
+            "respuesta": "FEMENINO",
+            "puntaje": 1
+        },
+        {
+            "id": 83,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 84,
+            "respuesta": "Mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 85,
+            "respuesta": "mujer",
+            "puntaje": 1
+        },
+        {
+            "id": 86,
+            "respuesta": "women",
+            "puntaje": 1
+        }
+    ],
+    "05_Assembly_group": [
+        {
+            "id": 1,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 2,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 3,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 4,
+            "respuesta": "familia, protección",
+            "puntaje": 1
+        },
+        {
+            "id": 5,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 6,
+            "puntaje": 6
+        },
+        {
+            "id": 7,
+            "respuesta": "grupo, familia",
+            "puntaje": 1
+        },
+        {
+            "id": 8,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 9,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 10,
+            "respuesta": "familia/reunion",
+            "puntaje": 1
+        },
+        {
+            "id": 11,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 12,
+            "respuesta": "Reunión",
+            "puntaje": 1
+        },
+        {
+            "id": 13,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 14,
+            "respuesta": "encuentro",
+            "puntaje": 1
+        },
+        {
+            "id": 15,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 16,
+            "respuesta": "grupo de personas",
+            "puntaje": 2
+        },
+        {
+            "id": 17,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 18,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 19,
+            "respuesta": "grupo",
+            "puntaje": 1
+        },
+        {
+            "id": 20,
+            "puntaje": 6
+        },
+        {
+            "id": 21,
+            "respuesta": "unidad",
+            "puntaje": 2
+        },
+        {
+            "id": 22,
+            "respuesta": "Grupo",
+            "puntaje": 1
+        },
+        {
+            "id": 23,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 24,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 25,
+            "respuesta": "familia, grupo",
+            "puntaje": 1
+        },
+        {
+            "id": 26,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 27,
+            "respuesta": "Grupo",
+            "puntaje": 1
+        },
+        {
+            "id": 28,
+            "respuesta": "reunion (veo un coche)",
+            "puntaje": 2
+        },
+        {
+            "id": 29,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 30,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 31,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 32,
+            "respuesta": "Todos",
+            "puntaje": 3
+        },
+        {
+            "id": 33,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 34,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 35,
+            "respuesta": "Reunión - Encuentro",
+            "puntaje": 1
+        },
+        {
+            "id": 36,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 37,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 38,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 39,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 40,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 41,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 42,
+            "respuesta": "familia"
+        },
+        {
+            "id": 43,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 44,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 45,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 46,
+            "respuesta": "Familia / Grupo",
+            "puntaje": 1
+        },
+        {
+            "id": 47,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 48,
+            "respuesta": "Family",
+            "puntaje": 1
+        },
+        {
+            "id": 49,
+            "respuesta": "Family",
+            "puntaje": 1
+        },
+        {
+            "id": 50,
+            "respuesta": "Punto de encuentro",
+            "puntaje": 3
+        },
+        {
+            "id": 51,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 52,
+            "respuesta": "Agrupación",
+            "puntaje": 1
+        },
+        {
+            "id": 53,
+            "respuesta": "Grupo de personas",
+            "puntaje": 1
+        },
+        {
+            "id": 54,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 55,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 56,
+            "respuesta": "REUNION",
+            "puntaje": 1
+        },
+        {
+            "id": 57,
+            "respuesta": "control de x box",
+            "puntaje": 4
+        },
+        {
+            "id": 58,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 59,
+            "respuesta": "multitud",
+            "puntaje": 4
+        },
+        {
+            "id": 60,
+            "respuesta": "punto de encuentro",
+            "puntaje": 2
+        },
+        {
+            "id": 61,
+            "respuesta": "punto de encuentro",
+            "puntaje": 2
+        },
+        {
+            "id": 62,
+            "respuesta": "group, family",
+            "puntaje": 1
+        },
+        {
+            "id": 63,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 64,
+            "respuesta": "nicolas dos papas",
+            "puntaje": 4
+        },
+        {
+            "id": 65,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 66,
+            "respuesta": "Conjunto de personas",
+            "puntaje": 1
+        },
+        {
+            "id": 67,
+            "respuesta": "Un grupo de personas (?",
+            "puntaje": 2
+        },
+        {
+            "id": 68,
+            "respuesta": "union",
+            "puntaje": 3
+        },
+        {
+            "id": 69,
+            "respuesta": "reunion",
+            "puntaje": 1
+        },
+        {
+            "id": 70,
+            "respuesta": "union",
+            "puntaje": 3
+        },
+        {
+            "id": 71,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 72,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 73,
+            "respuesta": "reunión",
+            "puntaje": 1
+        },
+        {
+            "id": 74,
+            "respuesta": "grupo de personas",
+            "puntaje": 1
+        },
+        {
+            "id": 75,
+            "respuesta": "PUNTO DE ENCUENTRO",
+            "puntaje": 1
+        },
+        {
+            "id": 76,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 77,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 78,
+            "respuesta": "Personas reunidas",
+            "puntaje": 1
+        },
+        {
+            "id": 79,
+            "respuesta": "reounion",
+            "puntaje": 1
+        },
+        {
+            "id": 80,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 81,
+            "respuesta": "icono de encuentro",
+            "puntaje": 1
+        },
+        {
+            "id": 82,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 83,
+            "respuesta": "grupo familiar",
+            "puntaje": 1
+        },
+        {
+            "id": 84,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 85,
+            "respuesta": "punto de encuentro",
+            "puntaje": 1
+        },
+        {
+            "id": 86,
+            "respuesta": "family",
+            "puntaje": 1
+        }
+    ],
+    "06_Assembly_family": [
+        {
+            "id": 1,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 2,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 3,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 4,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 5,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 6,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 7,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 8,
+            "respuesta": "Lugar familiar",
+            "puntaje": 1
+        },
+        {
+            "id": 9,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 10,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 11,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 12,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 13,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 14,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 15,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 16,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 17,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 18,
+            "respuesta": "grupo, familia",
+            "puntaje": 1
+        },
+        {
+            "id": 19,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 20,
+            "respuesta": "Familia junta",
+            "puntaje": 1
+        },
+        {
+            "id": 21,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 22,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 23,
+            "respuesta": "Punto de reunión",
+            "puntaje": 1
+        },
+        {
+            "id": 24,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 25,
+            "respuesta": "familia heterosexual",
+            "puntaje": 1
+        },
+        {
+            "id": 26,
+            "respuesta": "grupo de personas",
+            "puntaje": 1
+        },
+        {
+            "id": 27,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 28,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 29,
+            "respuesta": "Familia reunida",
+            "puntaje": 1
+        },
+        {
+            "id": 30,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 31,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 32,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 33,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 34,
+            "respuesta": "En conjunto",
+            "puntaje": 1
+        },
+        {
+            "id": 35,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 36,
+            "respuesta": "Grupo familiar",
+            "puntaje": 1
+        },
+        {
+            "id": 37,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 38,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 39,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 40,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 41,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 42,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 43,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 44,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 45,
+            "respuesta": "reunion",
+            "puntaje": 1
+        },
+        {
+            "id": 46,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 47,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 48,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 49,
+            "respuesta": "Reunión",
+            "puntaje": 1
+        },
+        {
+            "id": 50,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 51,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 52,
+            "respuesta": "Encuentro - Reunión",
+            "puntaje": 1
+        },
+        {
+            "id": 53,
+            "respuesta": "family stay together",
+            "puntaje": 1
+        },
+        {
+            "id": 54,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 55,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 56,
+            "respuesta": "Reunion / familia",
+            "puntaje": 1
+        },
+        {
+            "id": 57,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 58,
+            "respuesta": "family",
+            "puntaje": 1
+        },
+        {
+            "id": 59,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 60,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 61,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 62,
+            "respuesta": "Unión / Protección de Personas",
+            "puntaje": 1
+        },
+        {
+            "id": 63,
+            "respuesta": "Famiñia",
+            "puntaje": 1
+        },
+        {
+            "id": 64,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 65,
+            "respuesta": "Family",
+            "puntaje": 1
+        },
+        {
+            "id": 66,
+            "respuesta": "Pinto de encuentro",
+            "puntaje": 2
+        },
+        {
+            "id": 67,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 68,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 69,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 70,
+            "respuesta": "Familia - Encuentro",
+            "puntaje": 1
+        },
+        {
+            "id": 71,
+            "respuesta": "ENCUENTRO",
+            "puntaje": 1
+        },
+        {
+            "id": 72,
+            "respuesta": "refugiarse",
+            "puntaje": 2
+        },
+        {
+            "id": 73,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 74,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 75,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 76,
+            "respuesta": "Reunión familiar",
+            "puntaje": 1
+        },
+        {
+            "id": 77,
+            "respuesta": "Group",
+            "puntaje": 2
+        },
+        {
+            "id": 78,
+            "respuesta": "FAMILIA",
+            "puntaje": 1
+        },
+        {
+            "id": 79,
+            "puntaje": 6
+        },
+        {
+            "id": 80,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 81,
+            "respuesta": "punto de reunion",
+            "puntaje": 2
+        },
+        {
+            "id": 82,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 83,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 84,
+            "respuesta": "zona familiar",
+            "puntaje": 1
+        },
+        {
+            "id": 85,
+            "respuesta": "sector familiar",
+            "puntaje": 2
+        },
+        {
+            "id": 86,
+            "respuesta": "reunion",
+            "puntaje": 1
+        },
+        {
+            "id": 87,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 88,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 89,
+            "puntaje": 6
+        },
+        {
+            "id": 90,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 91,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 92,
+            "puntaje": 6
+        },
+        {
+            "id": 93,
+            "puntaje": 6
+        },
+        {
+            "id": 94,
+            "respuesta": "REUNION",
+            "puntaje": 2
+        },
+        {
+            "id": 95,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 96,
+            "respuesta": "punto de reunion",
+            "puntaje": 1
+        },
+        {
+            "id": 97,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 98,
+            "respuesta": "un icono caracterizando un punto de encuentro",
+            "puntaje": 3
+        },
+        {
+            "id": 99,
+            "respuesta": "REUNION",
+            "puntaje": 1
+        },
+        {
+            "id": 100,
+            "respuesta": "familia",
+            "puntaje": 1
+        },
+        {
+            "id": 101,
+            "respuesta": "Familia",
+            "puntaje": 1
+        },
+        {
+            "id": 102,
+            "respuesta": "familia reunida",
+            "puntaje": 1
+        }
+    ],
+    "07_Girl": [
+        {
+            "id": 1,
+            "respuesta": "QUAKER",
+            "puntaje": 4
+        },
+        {
+            "id": 2,
+            "respuesta": "no sé",
+            "puntaje": 6
+        },
+        {
+            "id": 3,
+            "respuesta": "Uso de Audifonos",
+            "puntaje": 4
+        },
+        {
+            "id": 4,
+            "respuesta": "persona con audífonos y ropa especial",
+            "puntaje": 4
+        },
+        {
+            "id": 5,
+            "respuesta": "gordo? auidfonos?",
+            "puntaje": 4
+        },
+        {
+            "id": 6,
+            "respuesta": "anciano",
+            "puntaje": 4
+        },
+        {
+            "id": 7,
+            "respuesta": "Usar casco de seguridad",
+            "puntaje": 4
+        },
+        {
+            "id": 8,
+            "respuesta": "Persona con audífonos",
+            "puntaje": 4
+        },
+        {
+            "id": 9,
+            "respuesta": "usar aislación acústica o ropa térmica (está dificil)",
+            "puntaje": 4
+        },
+        {
+            "id": 10,
+            "respuesta": "Mujer",
+            "puntaje": 3
+        },
+        {
+            "id": 11,
+            "respuesta": "persona con aislante sonoro",
+            "puntaje": 4
+        },
+        {
+            "id": 12,
+            "respuesta": "…",
+            "puntaje": 6
+        },
+        {
+            "id": 13,
+            "respuesta": "adulto mayor",
+            "puntaje": 5
+        },
+        {
+            "id": 14,
+            "respuesta": "nortino",
+            "puntaje": 4
+        },
+        {
+            "id": 15,
+            "respuesta": "equipo de seguridad",
+            "puntaje": 4
+        },
+        {
+            "id": 16,
+            "respuesta": "Audioguía",
+            "puntaje": 4
+        },
+        {
+            "id": 17,
+            "respuesta": "pueblo originario",
+            "puntaje": 4
+        },
+        {
+            "id": 18,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 19,
+            "respuesta": "?",
+            "puntaje": 6
+        },
+        {
+            "id": 20,
+            "respuesta": "anciana",
+            "puntaje": 3
+        },
+        {
+            "id": 21,
+            "respuesta": "persona mayor",
+            "puntaje": 5
+        },
+        {
+            "id": 22,
+            "respuesta": "Persona con sombrero",
+            "puntaje": 4
+        },
+        {
+            "id": 23,
+            "respuesta": "Detente",
+            "puntaje": 4
+        },
+        {
+            "id": 24,
+            "respuesta": "campesino",
+            "puntaje": 4
+        },
+        {
+            "id": 25,
+            "puntaje": 6
+        },
+        {
+            "id": 26,
+            "respuesta": "señor",
+            "puntaje": 4
+        },
+        {
+            "id": 27,
+            "respuesta": "nativo",
+            "puntaje": 4
+        },
+        {
+            "id": 28,
+            "respuesta": "go to shelter",
+            "puntaje": 4
+        },
+        {
+            "id": 29,
+            "respuesta": "Judio",
+            "puntaje": 4
+        },
+        {
+            "id": 30,
+            "respuesta": "…",
+            "puntaje": 6
+        },
+        {
+            "id": 31,
+            "respuesta": "…",
+            "puntaje": 6
+        },
+        {
+            "id": 32,
+            "respuesta": "Adulto con sombrero",
+            "puntaje": 5
+        },
+        {
+            "id": 33,
+            "respuesta": "Signo positivo",
+            "puntaje": 4
+        },
+        {
+            "id": 34,
+            "respuesta": "Adulto mayor",
+            "puntaje": 5
+        },
+        {
+            "id": 35,
+            "respuesta": "Señor gordo",
+            "puntaje": 4
+        },
+        {
+            "id": 36,
+            "respuesta": "Hombre",
+            "puntaje": 5
+        },
+        {
+            "id": 37,
+            "respuesta": "Ponerse audífonos (?)",
+            "puntaje": 4
+        },
+        {
+            "id": 38,
+            "respuesta": "Viejito del sombrero",
+            "puntaje": 5
+        },
+        {
+            "id": 39,
+            "respuesta": "entrance",
+            "puntaje": 4
+        },
+        {
+            "id": 40,
+            "respuesta": "beafeater",
+            "puntaje": 4
+        },
+        {
+            "id": 41,
+            "respuesta": "persona",
+            "puntaje": 3
+        },
+        {
+            "id": 42,
+            "respuesta": "hombre, adulto, adulto mayor",
+            "puntaje": 4
+        },
+        {
+            "id": 43,
+            "respuesta": "Hombre",
+            "puntaje": 4
+        },
+        {
+            "id": 44,
+            "respuesta": "go indoors",
+            "puntaje": 4
+        },
+        {
+            "id": 45,
+            "puntaje": 6
+        },
+        {
+            "id": 46,
+            "respuesta": "señora con sombrero",
+            "puntaje": 3
+        },
+        {
+            "id": 47,
+            "respuesta": "entrar a casa",
+            "puntaje": 4
+        },
+        {
+            "id": 48,
+            "respuesta": "Hombre",
+            "puntaje": 5
+        },
+        {
+            "id": 49,
+            "respuesta": "Hombre trabajando",
+            "puntaje": 4
+        },
+        {
+            "id": 50,
+            "respuesta": "mujer orejona",
+            "puntaje": 3
+        },
+        {
+            "id": 51,
+            "respuesta": "adulto mayor",
+            "puntaje": 5
+        },
+        {
+            "id": 52,
+            "respuesta": "Persona",
+            "puntaje": 3
+        },
+        {
+            "id": 53,
+            "respuesta": "Go inside for meeting point",
+            "puntaje": 4
+        },
+        {
+            "id": 54,
+            "respuesta": "SEÑOR",
+            "puntaje": 4
+        },
+        {
+            "id": 55,
+            "respuesta": "abuelo",
+            "puntaje": 5
+        },
+        {
+            "id": 56,
+            "respuesta": "Hombre con sombrero",
+            "puntaje": 4
+        },
+        {
+            "id": 57,
+            "puntaje": 6
+        },
+        {
+            "id": 58,
+            "respuesta": "go to somewhere",
+            "puntaje": 4
+        },
+        {
+            "id": 59,
+            "respuesta": "señor",
+            "puntaje": 4
+        },
+        {
+            "id": 60,
+            "respuesta": "Persona con poncho y audifonos",
+            "puntaje": 3
+        },
+        {
+            "id": 61,
+            "respuesta": "niño",
+            "puntaje": 2
+        },
+        {
+            "id": 62,
+            "respuesta": "Personas Edad Mayor",
+            "puntaje": 5
+        },
+        {
+            "id": 63,
+            "respuesta": "Anciano",
+            "puntaje": 5
+        },
+        {
+            "id": 64,
+            "respuesta": "campesino",
+            "puntaje": 4
+        },
+        {
+            "id": 65,
+            "respuesta": "Go inside",
+            "puntaje": 4
+        },
+        {
+            "id": 66,
+            "respuesta": "Zona de Ayuda a Campesinos",
+            "puntaje": 4
+        },
+        {
+            "id": 67,
+            "respuesta": "habitante nativo indigena",
+            "puntaje": 4
+        },
+        {
+            "id": 68,
+            "respuesta": "tercera edad",
+            "puntaje": 5
+        },
+        {
+            "id": 69,
+            "respuesta": "Señora de edad",
+            "puntaje": 4
+        },
+        {
+            "id": 70,
+            "respuesta": "Persona - Adulto",
+            "puntaje": 4
+        },
+        {
+            "id": 71,
+            "puntaje": 6
+        },
+        {
+            "id": 72,
+            "respuesta": "anciana",
+            "puntaje": 3
+        },
+        {
+            "id": 73,
+            "respuesta": "campesino",
+            "puntaje": 4
+        },
+        {
+            "id": 74,
+            "respuesta": "señor",
+            "puntaje": 4
+        },
+        {
+            "id": 75,
+            "respuesta": "mujer",
+            "puntaje": 3
+        },
+        {
+            "id": 76,
+            "respuesta": "Persona con sombrero",
+            "puntaje": 4
+        },
+        {
+            "id": 77,
+            "respuesta": "entrance",
+            "puntaje": 4
+        },
+        {
+            "id": 78,
+            "respuesta": "HOMBRE MAYOR",
+            "puntaje": 5
+        },
+        {
+            "id": 79,
+            "respuesta": "señora",
+            "puntaje": 3
+        },
+        {
+            "id": 80,
+            "respuesta": "tercera edad",
+            "puntaje": 4
+        },
+        {
+            "id": 81,
+            "puntaje": 6
+        },
+        {
+            "id": 82,
+            "respuesta": "Adulto mayor",
+            "puntaje": 5
+        },
+        {
+            "id": 83,
+            "respuesta": "No entiendo",
+            "puntaje": 6
+        },
+        {
+            "id": 84,
+            "respuesta": "anciano",
+            "puntaje": 4
+        },
+        {
+            "id": 85,
+            "respuesta": "adulto",
+            "puntaje": 4
+        },
+        {
+            "id": 86,
+            "respuesta": "mago",
+            "puntaje": 4
+        },
+        {
+            "id": 87,
+            "puntaje": 6
+        },
+        {
+            "id": 88,
+            "respuesta": "señor",
+            "puntaje": 4
+        },
+        {
+            "id": 89,
+            "puntaje": 6
+        },
+        {
+            "id": 90,
+            "respuesta": "colocarse audifonos",
+            "puntaje": 4
+        },
+        {
+            "id": 91,
+            "respuesta": "niña",
+            "puntaje": 1
+        },
+        {
+            "id": 92,
+            "puntaje": 6
+        },
+        {
+            "id": 93,
+            "respuesta": "baño de hombres",
+            "puntaje": 4
+        },
+        {
+            "id": 94,
+            "puntaje": 6
+        },
+        {
+            "id": 95,
+            "respuesta": "Mr",
+            "puntaje": 4
+        },
+        {
+            "id": 96,
+            "respuesta": "enfermera",
+            "puntaje": 3
+        },
+        {
+            "id": 97,
+            "respuesta": "anciano",
+            "puntaje": 4
+        },
+        {
+            "id": 98,
+            "respuesta": "una mujer",
+            "puntaje": 2
+        },
+        {
+            "id": 99,
+            "respuesta": "ADULTO MAYOR",
+            "puntaje": 4
+        },
+        {
+            "id": 100,
+            "respuesta": "hombre antiguo",
+            "puntaje": 5
+        },
+        {
+            "id": 101,
+            "respuesta": "adulto",
+            "puntaje": 4
+        },
+        {
+            "id": 102,
+            "respuesta": "señor",
+            "puntaje": 4
+        }
+    ],
+    "08_Boy": [
+        {
+            "id": 1,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 2,
+            "respuesta": "hombre sin brazos",
+            "puntaje": 4
+        },
+        {
+            "id": 3,
+            "respuesta": "Persona / Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 4,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 5,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 6,
+            "puntaje": 6
+        },
+        {
+            "id": 7,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 8,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 9,
+            "respuesta": "Inidividuo varón",
+            "puntaje": 2
+        },
+        {
+            "id": 10,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 11,
+            "respuesta": "Persona",
+            "puntaje": 2
+        },
+        {
+            "id": 12,
+            "respuesta": "Zona",
+            "puntaje": 2
+        },
+        {
+            "id": 13,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 14,
+            "puntaje": 6
+        },
+        {
+            "id": 15,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 16,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 17,
+            "respuesta": "man",
+            "puntaje": 2
+        },
+        {
+            "id": 18,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 19,
+            "respuesta": "solo",
+            "puntaje": 3
+        },
+        {
+            "id": 20,
+            "puntaje": 6
+        },
+        {
+            "id": 21,
+            "respuesta": "Hombre / ubicación",
+            "puntaje": 3
+        },
+        {
+            "id": 22,
+            "respuesta": "Gente",
+            "puntaje": 2
+        },
+        {
+            "id": 23,
+            "respuesta": "male",
+            "puntaje": 2
+        },
+        {
+            "id": 24,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 25,
+            "respuesta": "una persona, un hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 26,
+            "respuesta": "persona, hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 27,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 28,
+            "puntaje": 6
+        },
+        {
+            "id": 29,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 30,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 31,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 32,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 33,
+            "respuesta": "HOMBRE",
+            "puntaje": 2
+        },
+        {
+            "id": 34,
+            "respuesta": "niño",
+            "puntaje": 1
+        },
+        {
+            "id": 35,
+            "respuesta": "Quedarse en el lugar",
+            "puntaje": 4
+        },
+        {
+            "id": 36,
+            "respuesta": "person",
+            "puntaje": 2
+        },
+        {
+            "id": 37,
+            "respuesta": "HOMBRE",
+            "puntaje": 2
+        },
+        {
+            "id": 38,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 39,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 40,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 41,
+            "respuesta": "person/stand still",
+            "puntaje": 2
+        },
+        {
+            "id": 42,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 43,
+            "respuesta": "Persona",
+            "puntaje": 2
+        },
+        {
+            "id": 44,
+            "respuesta": "niño",
+            "puntaje": 1
+        },
+        {
+            "id": 45,
+            "respuesta": "Personas",
+            "puntaje": 2
+        },
+        {
+            "id": 46,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 47,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 48,
+            "respuesta": "Rigid Person",
+            "puntaje": 3
+        },
+        {
+            "id": 49,
+            "respuesta": "Man",
+            "puntaje": 2
+        },
+        {
+            "id": 50,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 51,
+            "respuesta": "niño",
+            "puntaje": 1
+        },
+        {
+            "id": 52,
+            "respuesta": "Niño (?)",
+            "puntaje": 1
+        },
+        {
+            "id": 53,
+            "respuesta": "Persona",
+            "puntaje": 2
+        },
+        {
+            "id": 54,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 55,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 56,
+            "puntaje": 6
+        },
+        {
+            "id": 57,
+            "respuesta": "ancianno",
+            "puntaje": 5
+        },
+        {
+            "id": 58,
+            "respuesta": "quedarse ahí",
+            "puntaje": 3
+        },
+        {
+            "id": 59,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 60,
+            "respuesta": "niño",
+            "puntaje": 1
+        },
+        {
+            "id": 61,
+            "respuesta": "baño de hombres",
+            "puntaje": 4
+        },
+        {
+            "id": 62,
+            "respuesta": "man, person",
+            "puntaje": 2
+        },
+        {
+            "id": 63,
+            "respuesta": "HOMBRE",
+            "puntaje": 2
+        },
+        {
+            "id": 64,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 65,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 66,
+            "respuesta": "Baño hombre",
+            "puntaje": 4
+        },
+        {
+            "id": 67,
+            "respuesta": "Hombre esperando",
+            "puntaje": 3
+        },
+        {
+            "id": 68,
+            "respuesta": "baño",
+            "puntaje": 4
+        },
+        {
+            "id": 69,
+            "respuesta": "mi ubicación",
+            "puntaje": 3
+        },
+        {
+            "id": 70,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 71,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 72,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 73,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 74,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 75,
+            "respuesta": "MASCULINO",
+            "puntaje": 2
+        },
+        {
+            "id": 76,
+            "respuesta": "hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 77,
+            "respuesta": "HOMBRE",
+            "puntaje": 2
+        },
+        {
+            "id": 78,
+            "respuesta": "Persona",
+            "puntaje": 2
+        },
+        {
+            "id": 79,
+            "respuesta": "ivdividuo",
+            "puntaje": 2
+        },
+        {
+            "id": 80,
+            "respuesta": "tranquilidad",
+            "puntaje": 4
+        },
+        {
+            "id": 81,
+            "respuesta": "un hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 82,
+            "respuesta": "MASCULINO",
+            "puntaje": 2
+        },
+        {
+            "id": 83,
+            "respuesta": "individuo",
+            "puntaje": 2
+        },
+        {
+            "id": 84,
+            "respuesta": "Hombre",
+            "puntaje": 2
+        },
+        {
+            "id": 85,
+            "respuesta": "persona",
+            "puntaje": 2
+        },
+        {
+            "id": 86,
+            "respuesta": "baby",
+            "puntaje": 2
+        }
+    ],
+    "09_Authority_instruction": [
+        {
+            "id": 1,
+            "respuesta": "DIRECCIÓN OBLIGADA",
+            "puntaje": 3
+        },
+        {
+            "id": 2,
+            "respuesta": "diríjase a la derecha",
+            "puntaje": 3
+        },
+        {
+            "id": 3,
+            "respuesta": "Dirigiendo el tráfico",
+            "puntaje": 2
+        },
+        {
+            "id": 4,
+            "respuesta": "policía - seguir instrucciones de la policía",
+            "puntaje": 1
+        },
+        {
+            "id": 5,
+            "respuesta": "carabinero",
+            "puntaje": 3
+        },
+        {
+            "id": 6,
+            "respuesta": "policía",
+            "puntaje": 2
+        },
+        {
+            "id": 7,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 8,
+            "respuesta": "Dirección de tránsito",
+            "puntaje": 3
+        },
+        {
+            "id": 9,
+            "respuesta": "Dirección policial",
+            "puntaje": 3
+        },
+        {
+            "id": 10,
+            "respuesta": "Carabineros",
+            "puntaje": 2
+        },
+        {
+            "id": 11,
+            "respuesta": "carabinero dirigiendo el transito",
+            "puntaje": 1
+        },
+        {
+            "id": 12,
+            "respuesta": "Carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 13,
+            "respuesta": "carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 14,
+            "respuesta": "carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 15,
+            "respuesta": "carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 16,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 17,
+            "respuesta": "Pacos",
+            "puntaje": 2
+        },
+        {
+            "id": 18,
+            "respuesta": "paco",
+            "puntaje": 2
+        },
+        {
+            "id": 19,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 20,
+            "respuesta": "Autoridad o carabinero dirigiendo",
+            "puntaje": 1
+        },
+        {
+            "id": 21,
+            "respuesta": "dirección de transito",
+            "puntaje": 3
+        },
+        {
+            "id": 22,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 23,
+            "respuesta": "Gire a la derecha",
+            "puntaje": 3
+        },
+        {
+            "id": 24,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 25,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 26,
+            "respuesta": "siga por allá",
+            "puntaje": 1
+        },
+        {
+            "id": 27,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 28,
+            "respuesta": "policeman",
+            "puntaje": 2
+        },
+        {
+            "id": 29,
+            "respuesta": "Carabinero señalando la derecha",
+            "puntaje": 1
+        },
+        {
+            "id": 30,
+            "respuesta": "Siga instrucciones",
+            "puntaje": 1
+        },
+        {
+            "id": 31,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 32,
+            "respuesta": "Carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 33,
+            "respuesta": "Autoridad",
+            "puntaje": 1
+        },
+        {
+            "id": 34,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 35,
+            "respuesta": "Paco / policía",
+            "puntaje": 2
+        },
+        {
+            "id": 36,
+            "respuesta": "Policía dirigiendo el tránsito",
+            "puntaje": 1
+        },
+        {
+            "id": 37,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 38,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 39,
+            "respuesta": "policeman",
+            "puntaje": 2
+        },
+        {
+            "id": 40,
+            "respuesta": "policía",
+            "puntaje": 2
+        },
+        {
+            "id": 41,
+            "respuesta": "policía, carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 42,
+            "respuesta": "señal de evacuación",
+            "puntaje": 1
+        },
+        {
+            "id": 43,
+            "respuesta": "Autoridad / Guía",
+            "puntaje": 1
+        },
+        {
+            "id": 44,
+            "respuesta": "police",
+            "puntaje": 2
+        },
+        {
+            "id": 45,
+            "respuesta": "siga instrucciones del guardia o camine hacia la derecha",
+            "puntaje": 1
+        },
+        {
+            "id": 46,
+            "respuesta": "carabinero dirigiendo",
+            "puntaje": 1
+        },
+        {
+            "id": 47,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 48,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 49,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 50,
+            "respuesta": "oficial de policia",
+            "puntaje": 2
+        },
+        {
+            "id": 51,
+            "respuesta": "policía/información policial",
+            "puntaje": 2
+        },
+        {
+            "id": 52,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 53,
+            "respuesta": "emergency officer will show way",
+            "puntaje": 1
+        },
+        {
+            "id": 54,
+            "respuesta": "CARABINERO DIRIGIENDO",
+            "puntaje": 1
+        },
+        {
+            "id": 55,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 56,
+            "respuesta": "Oficial / policia",
+            "puntaje": 2
+        },
+        {
+            "id": 57,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 58,
+            "respuesta": "police",
+            "puntaje": 2
+        },
+        {
+            "id": 59,
+            "respuesta": "policía de trancito",
+            "puntaje": 2
+        },
+        {
+            "id": 60,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 61,
+            "respuesta": "carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 62,
+            "respuesta": "Seguir Instrucciones de Efectivos",
+            "puntaje": 1
+        },
+        {
+            "id": 63,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 64,
+            "respuesta": "siga las indicaciones",
+            "puntaje": 1
+        },
+        {
+            "id": 65,
+            "respuesta": "Police Officer",
+            "puntaje": 2
+        },
+        {
+            "id": 66,
+            "respuesta": "Seguir indicaciones de Autoridades",
+            "puntaje": 1
+        },
+        {
+            "id": 67,
+            "respuesta": "Policia oficial",
+            "puntaje": 2
+        },
+        {
+            "id": 68,
+            "respuesta": "Autoridad / Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 69,
+            "respuesta": "Policía",
+            "puntaje": 2
+        },
+        {
+            "id": 70,
+            "respuesta": "Agente de Tránsito",
+            "puntaje": 2
+        },
+        {
+            "id": 71,
+            "respuesta": "POLICIA EN LA VIA",
+            "puntaje": 2
+        },
+        {
+            "id": 72,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 73,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 74,
+            "respuesta": "policia indicador",
+            "puntaje": 1
+        },
+        {
+            "id": 75,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 76,
+            "respuesta": "Detengase",
+            "puntaje": 2
+        },
+        {
+            "id": 77,
+            "respuesta": "policeman, or some other officer",
+            "puntaje": 2
+        },
+        {
+            "id": 78,
+            "respuesta": "CARABINERO DIRIGIENDO",
+            "puntaje": 1
+        },
+        {
+            "id": 79,
+            "respuesta": "paco",
+            "puntaje": 2
+        },
+        {
+            "id": 80,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 81,
+            "respuesta": "seguridad",
+            "puntaje": 2
+        },
+        {
+            "id": 82,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 83,
+            "respuesta": "Siga las instrucciones del personal",
+            "puntaje": 1
+        },
+        {
+            "id": 84,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 85,
+            "respuesta": "seguridad",
+            "puntaje": 2
+        },
+        {
+            "id": 86,
+            "respuesta": "oficial",
+            "puntaje": 2
+        },
+        {
+            "id": 87,
+            "respuesta": "carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 88,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 89,
+            "puntaje": 6
+        },
+        {
+            "id": 90,
+            "respuesta": "policía dirigiendo",
+            "puntaje": 1
+        },
+        {
+            "id": 91,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 92,
+            "puntaje": 6
+        },
+        {
+            "id": 93,
+            "puntaje": 6
+        },
+        {
+            "id": 94,
+            "respuesta": "POLICIA",
+            "puntaje": 2
+        },
+        {
+            "id": 95,
+            "respuesta": "Policia",
+            "puntaje": 2
+        },
+        {
+            "id": 96,
+            "respuesta": "personal de seguridad",
+            "puntaje": 2
+        },
+        {
+            "id": 97,
+            "respuesta": "policia",
+            "puntaje": 2
+        },
+        {
+            "id": 98,
+            "respuesta": "un carabinero",
+            "puntaje": 2
+        },
+        {
+            "id": 99,
+            "respuesta": "AUTORIDAD",
+            "puntaje": 1
+        },
+        {
+            "id": 100,
+            "respuesta": "carabinero al mando",
+            "puntaje": 2
+        },
+        {
+            "id": 101,
+            "respuesta": "Orden Policial",
+            "puntaje": 1
+        },
+        {
+            "id": 102,
+            "respuesta": "policía",
+            "puntaje": 1
+        },
+        {
+            "id": 103
+        }
+    ],
+    "25_Food": [
+        {
+            "id": 1,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 2,
+            "respuesta": "receta",
+            "puntaje": 3
+        },
+        {
+            "id": 3,
+            "respuesta": "restaurant",
+            "puntaje": 2
+        },
+        {
+            "id": 4,
+            "respuesta": "ZONA DE ALIMENTACIÓN",
+            "puntaje": 1
+        },
+        {
+            "id": 5,
+            "respuesta": "medicina natural?",
+            "puntaje": 4
+        },
+        {
+            "id": 6,
+            "respuesta": "centro de alimentación",
+            "puntaje": 1
+        },
+        {
+            "id": 7,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 8,
+            "puntaje": 6
+        },
+        {
+            "id": 9,
+            "respuesta": "SOPA?",
+            "puntaje": 1
+        },
+        {
+            "id": 10,
+            "respuesta": "hacer comida",
+            "puntaje": 1
+        },
+        {
+            "id": 11,
+            "respuesta": "OLLA COMUN",
+            "puntaje": 1
+        },
+        {
+            "id": 12,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 13,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 14,
+            "respuesta": "restoran",
+            "puntaje": 2
+        },
+        {
+            "id": 15,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 16,
+            "respuesta": "Sopa de guagua",
+            "puntaje": 2
+        },
+        {
+            "id": 17,
+            "respuesta": "Provisones",
+            "puntaje": 1
+        },
+        {
+            "id": 18,
+            "puntaje": 6
+        },
+        {
+            "id": 19,
+            "puntaje": 6
+        },
+        {
+            "id": 20,
+            "respuesta": "utinciolios de cocina",
+            "puntaje": 2
+        },
+        {
+            "id": 21,
+            "respuesta": "Comida / Restoranes",
+            "puntaje": 1
+        },
+        {
+            "id": 22,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 23,
+            "respuesta": "alimentación",
+            "puntaje": 1
+        },
+        {
+            "id": 24,
+            "respuesta": "Toque de gong",
+            "puntaje": 4
+        },
+        {
+            "id": 25,
+            "respuesta": "cocin",
+            "puntaje": 1
+        },
+        {
+            "id": 26,
+            "respuesta": "Comida o Instrumento Percusión",
+            "puntaje": 1
+        },
+        {
+            "id": 27,
+            "respuesta": "Sopa",
+            "puntaje": 1
+        },
+        {
+            "id": 28,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 29,
+            "respuesta": "plato de comida, cuchara de palo, bowl de ceramico",
+            "puntaje": 1
+        },
+        {
+            "id": 30,
+            "respuesta": "COMIDA",
+            "puntaje": 1
+        },
+        {
+            "id": 31,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 32,
+            "respuesta": "Preparación Culinaria",
+            "puntaje": 2
+        },
+        {
+            "id": 33,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 34,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 35,
+            "respuesta": "cuchara de palo sobre pote de sopa",
+            "puntaje": 2
+        },
+        {
+            "id": 36,
+            "puntaje": 6
+        },
+        {
+            "id": 37,
+            "respuesta": "Restaurant",
+            "puntaje": 2
+        },
+        {
+            "id": 38,
+            "respuesta": "food",
+            "puntaje": 1
+        },
+        {
+            "id": 39,
+            "respuesta": "cocina",
+            "puntaje": 1
+        },
+        {
+            "id": 40,
+            "respuesta": "Restaurante",
+            "puntaje": 2
+        },
+        {
+            "id": 41,
+            "respuesta": "instrumentos musicales de percusion",
+            "puntaje": 4
+        },
+        {
+            "id": 42,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 43,
+            "respuesta": "cocina",
+            "puntaje": 1
+        },
+        {
+            "id": 44,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 45,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 46,
+            "puntaje": 6
+        },
+        {
+            "id": 47,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 48,
+            "respuesta": "food",
+            "puntaje": 1
+        },
+        {
+            "id": 49,
+            "puntaje": 6
+        },
+        {
+            "id": 50,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 51,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 52,
+            "respuesta": "alimentos / comida",
+            "puntaje": 1
+        },
+        {
+            "id": 53,
+            "puntaje": 6
+        },
+        {
+            "id": 54,
+            "puntaje": 6
+        },
+        {
+            "id": 55,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 56,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 57,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 58,
+            "respuesta": "Zona Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 59,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 60,
+            "puntaje": 6
+        },
+        {
+            "id": 61,
+            "puntaje": 6
+        },
+        {
+            "id": 62,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 63,
+            "respuesta": "Olla",
+            "puntaje": 2
+        },
+        {
+            "id": 64,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 65,
+            "puntaje": 6
+        },
+        {
+            "id": 66,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 67,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 68,
+            "respuesta": "tambor",
+            "puntaje": 4
+        },
+        {
+            "id": 69,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 70,
+            "respuesta": "cocina",
+            "puntaje": 1
+        },
+        {
+            "id": 71,
+            "respuesta": "Sopa",
+            "puntaje": 1
+        },
+        {
+            "id": 72,
+            "respuesta": "Preparación en bowl",
+            "puntaje": 2
+        },
+        {
+            "id": 73,
+            "respuesta": "meal",
+            "puntaje": 1
+        },
+        {
+            "id": 74,
+            "respuesta": "alimento",
+            "puntaje": 1
+        },
+        {
+            "id": 75,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 76,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 77,
+            "respuesta": "zona de comida",
+            "puntaje": 1
+        },
+        {
+            "id": 78,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 79,
+            "respuesta": "Cocinar",
+            "puntaje": 1
+        },
+        {
+            "id": 80,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 81,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 82,
+            "respuesta": "Comer",
+            "puntaje": 1
+        },
+        {
+            "id": 83,
+            "respuesta": "Zona de comida",
+            "puntaje": 1
+        },
+        {
+            "id": 84,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 85,
+            "respuesta": "Zona de comida",
+            "puntaje": 1
+        },
+        {
+            "id": 86,
+            "respuesta": "Cafetería",
+            "puntaje": 2
+        },
+        {
+            "id": 87,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 88,
+            "respuesta": "Plato hondo con cuchara",
+            "puntaje": 2
+        },
+        {
+            "id": 89,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 90,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 91,
+            "respuesta": "Cocina",
+            "puntaje": 1
+        },
+        {
+            "id": 92,
+            "respuesta": "Guarda tu comida",
+            "puntaje": 2
+        },
+        {
+            "id": 93,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 94,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 95,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 96,
+            "respuesta": "No sé",
+            "puntaje": 6
+        },
+        {
+            "id": 97,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 98,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 99,
+            "respuesta": "dish",
+            "puntaje": 2
+        },
+        {
+            "id": 100,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 101,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 102,
+            "respuesta": "Bote salvavidas",
+            "puntaje": 4
+        },
+        {
+            "id": 103,
+            "respuesta": "tambores o comida",
+            "puntaje": 1
+        },
+        {
+            "id": 104,
+            "respuesta": "A bowl and spoon",
+            "puntaje": 1
+        },
+        {
+            "id": 105,
+            "respuesta": "Alimentos",
+            "puntaje": 1
+        },
+        {
+            "id": 106,
+            "respuesta": "food",
+            "puntaje": 1
+        },
+        {
+            "id": 107,
+            "respuesta": "breakfast cereal",
+            "puntaje": 3
+        },
+        {
+            "id": 108,
+            "respuesta": "alimentos",
+            "puntaje": 1
+        },
+        {
+            "id": 109,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 110,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 111,
+            "respuesta": "Alimentación",
+            "puntaje": 1
+        },
+        {
+            "id": 112,
+            "respuesta": "alimento",
+            "puntaje": 1
+        },
+        {
+            "id": 113,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 114,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 115,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 116,
+            "respuesta": "food",
+            "puntaje": 1
+        },
+        {
+            "id": 117,
+            "respuesta": "SOPA, BOWL",
+            "puntaje": 1
+        },
+        {
+            "id": 118,
+            "respuesta": "Alimentación",
+            "puntaje": 1
+        },
+        {
+            "id": 119,
+            "respuesta": "Comida para llevar",
+            "puntaje": 2
+        },
+        {
+            "id": 120,
+            "respuesta": "don't mix?",
+            "puntaje": 4
+        },
+        {
+            "id": 121,
+            "respuesta": "Algo de cocina",
+            "puntaje": 2
+        },
+        {
+            "id": 122,
+            "respuesta": "Hambruna",
+            "puntaje": 5
+        },
+        {
+            "id": 123,
+            "respuesta": "medicine/food",
+            "puntaje": 1
+        },
+        {
+            "id": 124,
+            "respuesta": "bowl de comida",
+            "puntaje": 1
+        },
+        {
+            "id": 125,
+            "respuesta": "No idea",
+            "puntaje": 6
+        },
+        {
+            "id": 126,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 127,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 128,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 129,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 130,
+            "puntaje": 6
+        },
+        {
+            "id": 131,
+            "puntaje": 6
+        },
+        {
+            "id": 132,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 133,
+            "puntaje": 6
+        },
+        {
+            "id": 134,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 135,
+            "respuesta": "Cantine",
+            "puntaje": 1
+        },
+        {
+            "id": 136,
+            "respuesta": "Food",
+            "puntaje": 1
+        },
+        {
+            "id": 137,
+            "respuesta": "Food",
+            "puntaje": 1
+        },
+        {
+            "id": 138,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 139,
+            "respuesta": "Zona Refugio Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 140,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 141,
+            "puntaje": 6
+        },
+        {
+            "id": 142,
+            "respuesta": "punto o ubicación",
+            "puntaje": 4
+        },
+        {
+            "id": 143,
+            "puntaje": 6
+        },
+        {
+            "id": 144,
+            "respuesta": "Sopa",
+            "puntaje": 1
+        },
+        {
+            "id": 145,
+            "puntaje": 6
+        },
+        {
+            "id": 146,
+            "puntaje": 6
+        },
+        {
+            "id": 147,
+            "puntaje": 6
+        },
+        {
+            "id": 148,
+            "puntaje": 6
+        },
+        {
+            "id": 149,
+            "respuesta": "Alimento",
+            "puntaje": 1
+        },
+        {
+            "id": 150,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 151,
+            "puntaje": 6
+        },
+        {
+            "id": 152,
+            "respuesta": "Ceramica",
+            "puntaje": 3
+        },
+        {
+            "id": 153,
+            "respuesta": "RESTAURANTE",
+            "puntaje": 2
+        },
+        {
+            "id": 154,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 155,
+            "respuesta": "zona de alimentos",
+            "puntaje": 1
+        },
+        {
+            "id": 156,
+            "respuesta": "yage",
+            "puntaje": 5
+        },
+        {
+            "id": 157,
+            "puntaje": 6
+        },
+        {
+            "id": 158,
+            "puntaje": 6
+        },
+        {
+            "id": 159,
+            "puntaje": 6
+        },
+        {
+            "id": 160,
+            "puntaje": 6
+        },
+        {
+            "id": 161,
+            "puntaje": 6
+        },
+        {
+            "id": 162,
+            "puntaje": 6
+        },
+        {
+            "id": 163,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 164,
+            "respuesta": "taza con cuchara",
+            "puntaje": 3
+        },
+        {
+            "id": 165,
+            "respuesta": "a bowl and a spoon",
+            "puntaje": 2
+        },
+        {
+            "id": 166,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 167,
+            "respuesta": "plato de cereales",
+            "puntaje": 2
+        },
+        {
+            "id": 168,
+            "respuesta": "bombo",
+            "puntaje": 4
+        },
+        {
+            "id": 169,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 170,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 171,
+            "respuesta": "Desayuno",
+            "puntaje": 2
+        },
+        {
+            "id": 172,
+            "respuesta": "Lugar de comida",
+            "puntaje": 1
+        },
+        {
+            "id": 173,
+            "respuesta": "restaurante",
+            "puntaje": 2
+        },
+        {
+            "id": 174,
+            "respuesta": "cocina",
+            "puntaje": 1
+        },
+        {
+            "id": 175,
+            "respuesta": "sopa",
+            "puntaje": 1
+        },
+        {
+            "id": 176,
+            "puntaje": 6
+        },
+        {
+            "id": 177,
+            "puntaje": 6
+        },
+        {
+            "id": 178,
+            "respuesta": "Zona miel",
+            "puntaje": 3
+        },
+        {
+            "id": 179,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 180
+        },
+        {
+            "id": 181
+        },
+        {
+            "id": 182
+        },
+        {
+            "id": 183,
+            "respuesta": "Alimento no perecible",
+            "puntaje": 2
+        },
+        {
+            "id": 184,
+            "respuesta": "lugar para comer",
+            "puntaje": 1
+        },
+        {
+            "id": 185,
+            "respuesta": "zona de comida",
+            "puntaje": 1
+        },
+        {
+            "id": 186,
+            "respuesta": "un plato y una cuchara",
+            "puntaje": 2
+        },
+        {
+            "id": 187,
+            "respuesta": "COMIDA",
+            "puntaje": 1
+        },
+        {
+            "id": 188,
+            "respuesta": "almuerzo",
+            "puntaje": 1
+        },
+        {
+            "id": 189
+        },
+        {
+            "id": 190,
+            "respuesta": "Comida",
+            "puntaje": 1
+        },
+        {
+            "id": 191,
+            "respuesta": "comida",
+            "puntaje": 1
+        },
+        {
+            "id": 192
+        }
+    ]
+}
