@@ -56,6 +56,23 @@
 <h1>Esta es una prueba<br />
 <small>Estoy leyendo el <a href="data.json">data.json</a> con PHP</small></h1>
 </div>
+  
+<?php
+  // ——————————————————
+  // grupos por puntaje
+  // ——————————————————
+
+  $puntajes = []; // array de tipos de puntaje
+  $i = 0;
+  while($datos[$i]){
+    $obj = (object)$datos;
+    foreach($obj as $d){
+      $puntajes[$d->puntaje][] = $d;
+    }
+    $i++;
+  }
+  ?><code><pre><?php print_r($puntajes); ?></pre></code><?php
+?>
 
 <?php for ($a = 0; $a < $all = count($datos); $a++) {?>
 <div class="col-sm-10 col-sm-offset-1">
